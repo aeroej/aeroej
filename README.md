@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eippee&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![eippee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eippee)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
