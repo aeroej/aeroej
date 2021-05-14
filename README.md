@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(Github Stat) 
-[![eippee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eippee)] 
-(Most Used Language) 
+
+![eippee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eippee)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eippee)
 
