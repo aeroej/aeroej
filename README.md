@@ -1,4 +1,4 @@
-# Hi there 👋  [개발블로그](https://aeroej.tistory.com/) : https://aeroej.tistory.com/
+# Hi there 👋  [블로그](https://aeroej.tistory.com/) : https://aeroej.tistory.com/
 <br>
 
 <!--
