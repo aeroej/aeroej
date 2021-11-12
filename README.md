@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![aeroej's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeroej&count_private=true&show_icons=true&line_height=30&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroej&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=asd0755)](https://solved.ac/asd0755)
+
 
 
 
